@@ -1,0 +1,14 @@
+- Debuggers
+	- Tool Settings
+	- Breakpoints
+		- Software & Hardware
+	- Check TLS Callbacks 
+	- Locate `main` function
+	- Analyzing the flow of a executable
+		- Analyzing API calls
+			- DLL imports
+		- Understanding Address Spaces
+	- Changing execution flow
+		- Using the debugger
+		- Patching the control flow
+			- Changing Assemble Code

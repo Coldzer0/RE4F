@@ -1,0 +1,14 @@
+- PE Scanners
+	- Is File Packed / Obfuscated / Protected 
+- PE Editors
+	- Check file [Import table](../PE%20Files/Import%20table.md)
+	- Check file [Export table](../PE%20Files/Export%20table.md)
+	- Check file [Section Info](../PE%20Files/Section%20Info.md)
+- Analysis Tools
+	- IDA
+		- Locate the `main` function
+			- C/C++
+			- Delphi/Pascal
+			- Go / Rust
+		- Control flow Analysis
+			- Analyzing API calls
