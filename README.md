@@ -1,6 +1,6 @@
 # Reverse Engineering 4 Fun & Profit
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![RE4F & Profit](https://img.shields.io/badge/discord-blue.svg?logo=discord&logoColor=f5f5f5)](https://discord.gg/2GZBkXnrjQ) (Arabic Discord Server)
+[![RE4F & Profit](https://img.shields.io/badge/discord-blue.svg?logo=discord&logoColor=f5f5f5)](https://discord.gg/2GZBkXnrjQ) (**Arabic Discord Server**)
 #### Reverse Engineering - Tools and Techniques
 
 - What & Why
